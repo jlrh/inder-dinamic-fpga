@@ -16,6 +16,7 @@ One `.rbf` runs all three games; each `.mra` selects the game (and its video mod
 | Hammer Boy | 1990 | 4 bpp, 324×200 | playable |
 | Mega Phoenix | 1991 | 8 bpp, 338×246 | playable |
 | YoYo Spell (prototype) | 1992 | 8 bpp, 338×288 | playable |
+| After the War | 1991 | 4 bpp | **coming soon** (waiting for the ROM to be released) |
 
 Hardware: **MC68000** main CPU + **TMS34010** graphics processor (512 KB VRAM, Bt478-style RAMDAC) +
 **PIC16C54** (inputs / DIP switches) + Inder sound board (**Z80** + CTC + DACs).
@@ -75,6 +76,7 @@ Un solo `.rbf` ejecuta los tres juegos; cada `.mra` elige el juego (y su modo de
 | Hammer Boy | 1990 | 4 bpp, 324×200 | jugable |
 | Mega Phoenix | 1991 | 8 bpp, 338×246 | jugable |
 | YoYo Spell (prototipo) | 1992 | 8 bpp, 338×288 | jugable |
+| After the War | 1991 | 4 bpp | **próximamente** (a la espera de que se libere la ROM) |
 
 Hardware: CPU principal **MC68000** + procesador gráfico **TMS34010** (512 KB de VRAM, RAMDAC tipo Bt478) +
 **PIC16C54** (entradas / DIP switches) + placa de sonido de Inder (**Z80** + CTC + DACs).
